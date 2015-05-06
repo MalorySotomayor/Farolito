@@ -1,0 +1,7 @@
+$('button').click(function() {
+	$('.parrafo').toggle();
+});
+
+$('circle-text').hover(function(){
+	$(this).toggleClass('circle-text-hover');
+});

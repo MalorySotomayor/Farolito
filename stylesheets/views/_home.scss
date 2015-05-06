@@ -1,0 +1,540 @@
+.landing {
+	background-image:url(../assets/img/img-home.png);
+	height: auto;	
+}
+
+.img-block {
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	background-position: center center;
+}
+
+.btn-nav-idioms {
+	padding: 3px 13px;
+	font-weight: 600;
+	border-radius: 12px;
+	font-size:12px;
+	color: gray;
+	border: 1px solid gray;
+	margin: 12px;
+}
+
+.btn-nav-login {
+	background-color: gray;
+	color:white;
+	padding: 3px 15px;
+	border-radius: 12px;
+	font-size:14px;
+	border: 1px solid gray;
+	margin: 12px 0px;
+}
+
+.navbar-default,
+.navbar-default .navbar-toggle {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.navbar > li > a {
+	font-size: 21px;
+	padding: 2.7% 0%;
+	color: rgb(158, 157, 157); 
+	text-decoration: none;
+	position: relative;
+	display: block;
+	padding: 15px 5px;
+}
+
+.modal-dialog {
+	padding: 8% 4%;
+}
+
+.modal-content {
+	border-radius: 30px;
+}
+
+.login {
+	width: 100%;
+  height: auto;
+  padding: 7% 15%;
+  border: 6px solid rgb(189, 188, 188);
+  border-radius: 30px;
+}
+
+.form-group .text-right .btn-login-pop-up {
+	width: auto;
+	height: auto;
+	background-color: rgb(40, 197, 230);
+	padding: 1rem;
+	color: white;
+}
+
+.style-first-slogan {
+	letter-spacing: 0.2px;
+	line-height: 35px;
+	font-size:26px;
+}
+
+.btn-crear {
+  padding: 12px 47px !important;
+  font-size: 15px !important;
+  border-radius: 11px !important;
+  border: 1px solid white;
+}
+
+.btn-crear-xs {
+  padding: 6px 16px !important;
+  font-size: 13px !important;
+  border-radius: 11px !important;
+  border: 1px solid white;
+  float: right;
+}
+
+.flecha {
+  z-index: 100;
+  bottom: 19px;
+ }
+
+ .img-icon-down {
+ 	width: 6%;
+ }
+
+ .box-text-metodologia {
+ 	position: relative;
+ }
+
+ .quote-left, 
+ .quote-right {
+ 	width:5.5%; 
+ 	position: absolute;
+ 	display: inline-block;
+ }
+
+ .quote-left {
+ 	right: 78%;
+  bottom: 65%;
+ }
+
+ .quote-right {
+ 	top: 73%;
+  left: 96%;
+ }
+
+ #metodologia .container .col-sm-10 h2 {
+ 	display: inline-block;
+ }
+
+.circle-orange {
+	border-radius: 50%;
+}
+
+.circle-orange:hover {
+	background-color:white;
+}
+
+.circle-dashed {
+	border-radius: 50%;
+	height: 27em;
+	border: 3px dashed white;
+	position: relative;
+}
+
+.circle-dashed:hover {
+	border: 3px dashed tomato;
+}
+
+
+.circle-text h4 {
+	font-size: 1.6em;
+ 	line-height: 1.6em;
+ 	color: white;
+}
+
+.circle-text-hover .absolute {
+	position: absolute;
+	right: 125px;
+}
+
+.line-left,
+.line-right {
+	width: 63%;
+  height: 30px;
+  top: 280px;
+  border-bottom: 4px dashed #ff6a49;
+}
+
+.line-down {
+	height: 24%;
+	border-left:4px dashed #ff6a49;
+}
+
+.line-left {
+	left: 192px;
+	transform: rotate(-15deg);
+}
+
+.line-right {
+	right: 192px;
+	transform: rotate(15deg);
+}
+
+.line-dashed {
+	 margin-bottom: 5%;
+  width: 70%;
+  border-bottom: 2px dashed #ff6a49;
+  padding-top: 9%;
+}
+
+.text-around-circle {
+	bottom: 280px;
+}
+
+.text-style-around-circle {
+	h3 {
+		font-weight: 800;
+	}
+	p {
+		font-size: 19px;
+	}
+}
+
+.text-left-around-circle {
+	left: 55px;
+}
+
+.text-right-around-circle {
+	right: 55px;
+} 
+
+.btn-show-more {
+  width: 20%;
+  height: 11%;
+  border-radius: 14px;
+  font-size: 18px;  
+  font-weight: 800;
+	border-color: transparent;
+}
+
+.tp-flecha {
+	top: 30px;
+}
+
+#postulantes {
+	background-image: url(../assets/img/img-02.png);
+	height: auto;
+	.col-md-4 ul li.list-left {
+		border-bottom: 2px dashed white;
+	}
+}
+
+.col-md-4 ul {
+	border-right: 2px dashed white;
+	li h2.light-heading {
+	font-size: 28px;
+	border-bottom: 2px dashed white;
+  padding-bottom: 9%;
+	}
+
+	li img {
+		width: 47%;
+	}
+}
+
+.img-red,
+.img-yellow,
+.img-green {
+	width: 52%;
+	right: -74px;
+}
+
+.img-red {
+	top:0px;
+}
+
+.img-yellow {
+	top: 21px;
+}
+
+.img-green {
+	top: -10px;
+}
+
+.col-md-5 .color-white {
+	line-height: 1.5em;
+}
+
+.border-down {
+	width: 49%;
+	border-right:2px dashed white;
+	min-height: 100px;
+	margin-top: -35px;
+}
+
+.btn-opportunities {
+	width: 28%;
+  height: 8%;
+  border-radius: 22px;
+  font-size: 20px;
+  padding: 1rem;
+  border: 3px solid;
+}
+
+.arrow-postulantes {
+	top: -27px;
+}
+
+#empresas .container .row h2.color-gray {
+  width: 46%;
+  border-bottom: 2px dashed #ff6a49
+}
+
+#empresas .container .row .col-md-4,
+.centros-educativos .container .row .col-md-4 {
+	letter-spacing: 0.5px;
+}
+
+.btn-contact {
+	width: 24%;
+	height: 8%;
+	border-radius: 22px;
+	font-size: 22px;
+	padding: 1rem;
+	border:3px solid white;
+}
+
+.arrow-centros-educativos {
+	top: 27px;
+}
+
+.centros-educativos .container .row h2.color-yellow {
+	width: 46%;
+	border-bottom: 2px dashed white;
+	line-height: 1.5em;	
+}
+
+#opportunities {
+	background-image: url(../assets/img/img-03.png);
+	background-size: 100% 100%;
+}
+
+.word-white {
+	padding:0% 6% 12%;
+	h4 {
+		border-bottom: 1px solid rgb(40, 197, 230);
+	}
+	.border-bottom-dotted {
+		border-bottom: 2px dotted #9E9D9D;
+	}
+}
+
+.word-white h4.uno{
+		width:25%;
+	}
+
+.word-white h4.dos{
+		width: 35%;
+	}
+
+.word-white h4.tres{
+		width: 33%;
+	}
+
+.btn-vermas-word-white {
+	border:2px solid rgb(255, 106, 73);
+}
+
+.pic {
+	position: relative;
+  top: 45px;
+}
+
+.content-text-pic {
+	background-color: rgb(242, 240, 240);
+  h4 {
+  	line-height: 1.5em;
+  	}
+}
+
+.content-text-pic:hover {
+	background-color: rgb(255, 200, 25);
+	color: white;
+}
+
+.btn-show {
+	width: 20%;
+  height: 8%;
+  border-radius: 14px;
+  font-size: 22px;
+  font-weight: 800;
+}
+
+#form {
+	background-color: #F0F0F0;
+}
+
+.footer {
+	background-color:gray;
+}
+
+.footer .pull-left {
+	padding-left: 21px;
+}
+
+.footer .pull-left ul {
+  margin-bottom: 0;
+}
+
+.footer .pull-left ul li {
+  font-family: "museo-sans", Helvetica, Arial, sans-serif !important;
+  font-weight: 100;
+  font-style: normal;
+  letter-spacing: -1px;
+  line-height: 110%;
+  padding-left: 7px;
+  position: relative;
+  top: -14px;
+  display: inline-block;
+}
+
+@media screen and (min-width: 800px) {
+
+.navbar ul {
+  width: 100%;
+  padding: 0% 4% 0%;
+  text-align: right;
+  position: fixed;
+  top: 0;
+  left: 0;
+  -webkit-transition: all .25s ease-in;
+     -moz-transition: all .25s ease-in;
+      -ms-transition: all .25s ease-in;
+       -o-transition: all .25s ease-in;
+          transition: all .25s ease-in;
+}
+
+.navbar-nav > li {
+	float: none;
+	display: inline-block;
+}
+
+}
+/*Cellphone */
+
+@media screen and (max-width:$screen-phone) {
+
+.landing {
+	background-image:url(../assets/img/img-skyblue-light.png);
+	}
+
+.navbar-toggle {
+	float:left;
+	}
+
+nav .container .navbar-brand {
+	float: right;
+}
+
+.plr-5 {
+	padding: 4.6% 4% 7%;
+}
+
+.text-style-around-circle {
+	.text-left-around-circle {
+		padding: 0% 7%;
+	}
+	.plr-13 {
+		padding: 0% 10%;
+	}
+	.text-right-around-circle {
+		padding:0% 10%;
+		right: 0px;
+	}
+}
+
+.text-around-circle {
+	bottom: 0px;
+	left: 0px;
+	margin-bottom: 0px;
+}
+
+.text-title-font {
+	margin-top: 13%;
+}
+
+#postulantes .container .row {
+	margin:0px;
+	padding:0px;
+}
+
+#postulantes .container .row .col-md-2 .row {
+	text-align: center;
+	margin:0px;
+	padding: 0px;
+}
+
+.light-heading {
+	font-size: 28px;
+	border-bottom: 2px dashed white;
+  padding-bottom: 9%;
+}
+
+.img-red-cellphone {
+	width: 28%;
+}
+
+#empresas .container .row {
+		h2.color-gray {
+	  width: auto;
+	  padding: 0% 2% 6%;
+	  margin: 6% 7%;
+	  }
+	  .col-md-4 h3.font-weight-600 {
+	  	color: #ff6a49;
+	  	padding: 2% 0%;
+	  }
+	}
+
+.btn-contact {
+	width: 77%;
+  border-radius: 18px;
+  font-size: 17px;
+  padding: 1rem;
+  border: 3px solid white;
+  margin: 13% 0%;
+}
+
+.centros-educativos .container .row{
+	h1.text-title-font{
+		margin-top: 7%;
+		padding: 0% 2%;
+	}
+	h2.text-title-font {
+		width: 85%;
+		margin-top: 8%;
+		margin-bottom: 14%;
+	}
+	.col-md-4 {
+		h3{
+			margin-bottom: 4%;
+		}
+		h4 {
+			line-height: 1.5em;
+  		margin-bottom: 20%;
+		}
+	}
+}
+
+.btn-contact {
+	margin: 0% 0% 15%;
+}
+
+.content-text-pic {
+	background-color: transparent;
+}
+.content-text-pic {
+	text-align: center;
+	padding: 16% 0% 0%;
+}
+
+
+}

@@ -1,0 +1,300 @@
+//Colocar aquí clases utilitarias para todo el sitio. Por ejemplo: márgenes, alineación de texto y color de texto.
+
+.font-weight-600 {
+	font-weight: 600;
+}
+
+.lado-light {
+	font-family: "Lato light";
+}
+.lado {
+	font-family: "Layo";
+}
+.uppercase {
+	text-transform: uppercase;
+}
+
+.color-skyblue-personalized {
+	color: rgb(40, 197, 230);
+}
+
+.color-gray {
+	color: rgb(183, 183, 183);
+}
+
+.color-orange-red {
+	color:rgb(255, 106, 73);
+}
+
+.color-white{
+	color: white;
+}
+
+.color-yellow {
+	color: rgb(254, 240, 126);
+}
+
+.color-yellow-laboratoria {
+	color:rgb(255, 193, 0);
+}
+
+.color-skyblue-light-personalized {
+	color:#F0FBFD
+}
+
+.background-color-orange-red {
+	background-color: rgb(255, 106, 73);
+}
+
+.background-color-skyblue-personalized {
+	background-color: rgb(40, 197, 230);	
+}
+
+.background-color-green {
+	background-color: rgb(119, 210, 72);
+}
+
+.relative {
+	position: relative;
+}
+
+.absolute {
+	position: absolute;
+}
+
+.p-prznl {
+	padding:17% 17% 16% 18%;
+}
+
+.p-prznl-2 {
+	padding: 12% 17% 6% 18%;
+}
+
+.p-prznl-3 {
+	padding: 30% 17% 15% 18%;
+}
+
+.px-7-25 {
+	padding: 7px 25px;
+}
+
+.p-0 {
+	padding: 0%;
+}
+
+.p-5 {
+	padding: 5%;
+}
+
+.p-1rm{
+	padding:0.5rem;
+}
+
+.p-21-7 {
+	padding: 21% 7%;
+}
+
+.pu-2rm {
+	padding-top: 2rem;
+}
+
+.p-3rm {
+	padding: 3rem;
+}
+
+.p-9-20 {
+	padding:9% 20%;
+}
+
+.pl-6 {
+	padding-left: 6%
+}
+
+.pl-21 {
+	padding-left: 21%;
+}
+
+.plr-3 {
+	padding: 0% 3%;
+}
+
+.plr-4 {
+	padding: 4.6% 4%;
+}
+
+.plr-5 {
+	padding: 4.6% 8%;
+}
+
+.plr-6 {
+	padding: 0% 6%;
+}
+
+.plr-9 {
+	padding: 0% 9%;
+}
+
+.plr-13 {
+	padding:0% 13%;
+}
+
+.plr-19 {
+	padding: 0% 19%;
+}
+
+.plr-24 {
+	padding: 0% 24%;
+}
+
+.plr-26 {
+	padding: 0% 26%;
+}
+
+.pr-17 {
+	padding-right: 17%;
+}
+
+.pu-3 {
+	padding-top: 3%;
+}
+
+.pu-5 {
+	padding-top: 5%;
+}
+
+.pu-6{
+	padding-top: 6%;
+}
+
+.pud-6 {
+	padding: 6% 0%;
+}
+
+.pu-35 {
+	padding-top: 35%;
+}
+
+.pu-90 {
+	padding-top: 90%;
+}
+
+.pud-2 {
+	padding: 2% 0%;
+}
+
+.pud-3-2 {
+	padding: 3% 0% 2%;
+}
+
+.pud-4-16 {
+	padding: 4% 0% 16%;
+}
+
+.pd-2 {
+	padding-bottom: 2%;
+}
+
+.pd-6 {
+	padding-bottom: 6%;
+}
+
+.pd-8 {
+	padding-bottom: 8%;
+}
+
+.pd-15 {
+	padding-bottom: 15%;
+}
+
+.m-0 {
+	margin: 0px;
+}
+
+.m-1-0-5 {
+	margin: 0.9% 0% 5%;
+}
+
+.m-0-auto {
+	margin: 0 auto;
+}
+
+.m-2-auto-0 {
+	margin: 2% auto 0%;
+}
+
+.m-4-5m {
+	margin: 4.5em 5em 0em;
+}
+
+.mu-05rm {
+	margin-top: 0.5rem;
+}
+
+.mu-2 {
+	margin-top: 2%;
+}
+
+.mu-4 {
+	margin-top: 4%;
+}
+
+.mu-7 {
+	margin-top: 8.6%;
+}
+
+.mu-20 {
+	margin-top: 20%;
+}
+
+.mu-22 {
+	margin-top: 24%;
+}
+
+.mu-53 {
+	margin-top: 53%;
+}
+
+.mu-58 {
+	margin-top: 58%;
+}
+
+.mu-70 {
+	margin-top: 70%;
+	padding-bottom: 6%
+}
+
+.mud-1i5-1{
+	margin: 1.5% 0% 1%;
+}
+
+.mud-2 {
+	margin: 2% 0%;
+}
+
+.mud-5 {
+	margin: 5% 0%;
+}
+
+.mud-10-4 {
+	margin: 10% 0% 4%;
+}
+
+.mud-7 {
+	margin: 7% 0%;
+}
+
+.mud-8-2 {
+	margin:8% 0% 2%;
+}
+
+.md-5 {
+	margin-bottom: 5%;
+}
+
+.md-10 {
+	margin-bottom:10%;
+}
+
+.line-height-26 {
+	line-height:26px;
+}
